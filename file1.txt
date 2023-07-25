@@ -1,8 +1,6 @@
 Hello from Notepad
 Let's see this through!
 
-<<<<<<< HEAD
 This is Yalda!
-=======
+
 Mohammed was here!
->>>>>>> dbfade6c30888798ed42bd3334ef8fc222945635
